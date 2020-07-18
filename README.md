@@ -1,6 +1,6 @@
 ## Hugo Mansilla Jamett
 
-You can use the [editor on GitHub](https://github.com/hugomansilla/hugomansilla.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ingeniero comercial y Desarrollador Front-End con experiencia en consultoría, emprendimiento, educación superior y control de gestión, con una fuerte base en métodos cuantitativos. Analítico, responsable, exigente, en continuo aprendizaje y con una gran capacidad para comunicar eficientemente de forma oral y escrita. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

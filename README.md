@@ -1,4 +1,4 @@
-## Hugo Mansilla Jamett
+# Hugo Mansilla Jamett
 
 Ingeniero comercial y Desarrollador Front-End con experiencia en consultoría, emprendimiento, educación superior y control de gestión, con una fuerte base en métodos cuantitativos. Analítico, responsable, exigente, en continuo aprendizaje y con una gran capacidad para comunicar eficientemente de forma oral y escrita. 
 

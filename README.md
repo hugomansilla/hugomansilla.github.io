@@ -2,18 +2,18 @@
 
 Ingeniero comercial y Desarrollador Front-End con experiencia en consultoría, emprendimiento, educación superior y control de gestión, con una fuerte base en métodos cuantitativos. Analítico, responsable, exigente, en continuo aprendizaje y con una gran capacidad para comunicar eficientemente de forma oral y escrita. 
 
-### Experiencia laboral
+## Experiencia laboral
 
-#### Pontificia Universidad Católica de Chile, Santiago. 
+### Pontificia Universidad Católica de Chile, Santiago. 
 Magister en procesamiento y gestión de la información (Marzo 2020-Presente)
 
-#### Universidad de Santiago de Chile, Santiago. 
+### Universidad de Santiago de Chile, Santiago. 
 Diplomado en Data Science (Marzo 2019 - Octubre 2019)
 
-#### Academia de talentos digitales Desafio Latam
+### Academia de talentos digitales Desafio Latam
 Desarrollador Front-End (2018-2019)
 
-#### Pontificia Universidad Católica de Valparaíso, Valparaíso. 
+### Pontificia Universidad Católica de Valparaíso, Valparaíso. 
 Ingeniero Comercial - Mejor egresado de la cohorte ingreso 2013 (2013-2017)
 Licenciado en Ciencias en la Administración de Empresas (2013-2017)
 
@@ -37,20 +37,20 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Formación Académica 
+## Formación Académica 
 
-#### AIS Group, Santiago.
+### AIS Group, Santiago.
 
-#### PUCV, Valparaíso.
+### PUCV, Valparaíso.
 
-#### Control de Plagas Kaitek, Punta Arenas.
+### Control de Plagas Kaitek, Punta Arenas.
 
-#### Gobierno Regional de Valparaíso, DIPLAD. 
+### Gobierno Regional de Valparaíso, DIPLAD. 
 
-#### PUCV, Valparaíso.
+### PUCV, Valparaíso.
 
 ### BBVA, Banca grandes empresas, Valparaíso. 
 
 
-### Contacto
+## Contacto
 hugomansilla@gmail.com 

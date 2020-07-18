@@ -51,6 +51,13 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### BBVA, Banca grandes empresas, Valparaíso. 
 
+## Conocimientos y Habilidades
+
+### Idiomas.
+
+### Manejo de softwares.
+
+### Cinturón negro Karate-Do Shito ryu Itosu kai. 
 
 ## Contacto
 hugomansilla@gmail.com 

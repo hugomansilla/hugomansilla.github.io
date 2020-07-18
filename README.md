@@ -2,11 +2,20 @@
 
 Ingeniero comercial y Desarrollador Front-End con experiencia en consultoría, emprendimiento, educación superior y control de gestión, con una fuerte base en métodos cuantitativos. Analítico, responsable, exigente, en continuo aprendizaje y con una gran capacidad para comunicar eficientemente de forma oral y escrita. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Experiencia laboral
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Pontificia Universidad Católica de Chile, Santiago. 
+Magister en procesamiento y gestión de la información (Marzo 2020-Presente)
+
+#### Universidad de Santiago de Chile, Santiago. 
+Diplomado en Data Science (Marzo 2019 - Octubre 2019)
+
+#### Academia de talentos digitales Desafio Latam
+Desarrollador Front-End (2018-2019)
+
+#### Pontificia Universidad Católica de Valparaíso, Valparaíso. 
+Ingeniero Comercial - Mejor egresado de la cohorte ingreso 2013 (2013-2017)
+Licenciado en Ciencias en la Administración de Empresas (2013-2017)
 
 ```markdown
 Syntax highlighted code block
@@ -30,10 +39,18 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Formación Académica 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hugomansilla/hugomansilla.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### AIS Group, Santiago.
 
-#### Hola
+#### PUCV, Valparaíso.
+
+#### Control de Plagas Kaitek, Punta Arenas.
+
+#### Gobierno Regional de Valparaíso, DIPLAD. 
+
+#### PUCV, Valparaíso.
+
+### BBVA, Banca grandes empresas, Valparaíso. 
+
 
 ### Contacto
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+hugomansilla@gmail.com 

@@ -2,7 +2,7 @@
 
 Ingeniero comercial y Desarrollador Front-End con experiencia en consultoría, emprendimiento, educación superior y control de gestión, con una fuerte base en métodos cuantitativos. Analítico, responsable, exigente, en continuo aprendizaje y con una gran capacidad para comunicar eficientemente de forma oral y escrita. 
 
-## Experiencia laboral
+## Formación Académica 
 
 ### Pontificia Universidad Católica de Chile, Santiago. 
 Magister en procesamiento y gestión de la información (Marzo 2020-Presente)
@@ -37,7 +37,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Formación Académica 
+## Experiencia Laboral 
 
 ### AIS Group, Santiago.
 
